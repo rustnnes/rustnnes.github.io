@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diego Bandeira</title>
+    <link>https://rustnnes.github.io/</link>
+    <description>Recent content on Diego Bandeira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://diegobandeira.com.br&#34;&gt;Diego Bandeira&lt;/a&gt; 2020</copyright>
+    <lastBuildDate>Tue, 10 Nov 2020 16:07:30 -0300</lastBuildDate><atom:link href="https://rustnnes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First!</title>
+      <link>https://rustnnes.github.io/202011/first/</link>
+      <pubDate>Tue, 03 Nov 2020 19:49:09 -0300</pubDate>
+      
+      <guid>https://rustnnes.github.io/202011/first/</guid>
+      <description>É engraçado como a gente roda, roda… E acaba criando um site.
+A ideia é ter onde falar sobre Qualidade, postar algumas coisas interessantes, ter um registro de coisas que aprendo diariamente (Today I learned)…
+Falo sobre questões técnicas (escolha da plataforma, SSG, Github Actions…) nesse post</description>
+    </item>
+    
+    <item>
+      <title>Currículo</title>
+      <link>https://rustnnes.github.io/cv/</link>
+      <pubDate>Tue, 10 Nov 2020 16:07:30 -0300</pubDate>
+      
+      <guid>https://rustnnes.github.io/cv/</guid>
+      <description>Meu currículo, onde eu demonstro o conhecimento que adquiri durante minha carreira.</description>
+    </item>
+    
+    <item>
+      <title>Today I Learned - Heurísticas</title>
+      <link>https://rustnnes.github.io/202011/today-i-learned-heur%C3%ADsticas/</link>
+      <pubDate>Wed, 04 Nov 2020 11:45:59 -0300</pubDate>
+      
+      <guid>https://rustnnes.github.io/202011/today-i-learned-heur%C3%ADsticas/</guid>
+      <description>Heurísticas ajudam a saber o que precisa ser testado numa aplicação, mas o tempo para executar os testes pode ser um problema.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://rustnnes.github.io/about/</link>
+      <pubDate>Wed, 04 Nov 2020 01:21:07 -0300</pubDate>
+      
+      <guid>https://rustnnes.github.io/about/</guid>
+      <description>Diego BandeiraEste que vos escreve
+  Olá! 👋
+Sou Diego Bandeira.
+Sou Engenheiro de Qualidade de Software na Conductor Tecnologia</description>
+    </item>
+    
+    <item>
+      <title>Today I Learned - Hugo</title>
+      <link>https://rustnnes.github.io/202011/today-i-learned-hugo/</link>
+      <pubDate>Wed, 04 Nov 2020 01:07:22 -0300</pubDate>
+      
+      <guid>https://rustnnes.github.io/202011/today-i-learned-hugo/</guid>
+      <description>O que eu uso para colocar o site em prática e escrever conteúdo rapidamente</description>
+    </item>
+    
+  </channel>
+</rss>

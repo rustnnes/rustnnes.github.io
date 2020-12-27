@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Diego Bandeira</title>
+    <link>https://rustnnes.github.io/tags/</link>
+    <description>Recent content in Tags on Diego Bandeira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://diegobandeira.com.br&#34;&gt;Diego Bandeira&lt;/a&gt; 2020</copyright>
+    <lastBuildDate>Tue, 10 Nov 2020 16:07:30 -0300</lastBuildDate><atom:link href="https://rustnnes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>curriculo</title>
+      <link>https://rustnnes.github.io/tags/curriculo/</link>
+      <pubDate>Tue, 10 Nov 2020 16:07:30 -0300</pubDate>
+      
+      <guid>https://rustnnes.github.io/tags/curriculo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cv</title>
+      <link>https://rustnnes.github.io/tags/cv/</link>
+      <pubDate>Tue, 10 Nov 2020 16:07:30 -0300</pubDate>
+      
+      <guid>https://rustnnes.github.io/tags/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resume</title>
+      <link>https://rustnnes.github.io/tags/resume/</link>
+      <pubDate>Tue, 10 Nov 2020 16:07:30 -0300</pubDate>
+      
+      <guid>https://rustnnes.github.io/tags/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agil</title>
+      <link>https://rustnnes.github.io/tags/agil/</link>
+      <pubDate>Wed, 04 Nov 2020 11:45:59 -0300</pubDate>
+      
+      <guid>https://rustnnes.github.io/tags/agil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heuristicas</title>
+      <link>https://rustnnes.github.io/tags/heuristicas/</link>
+      <pubDate>Wed, 04 Nov 2020 11:45:59 -0300</pubDate>
+      
+      <guid>https://rustnnes.github.io/tags/heuristicas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>til</title>
+      <link>https://rustnnes.github.io/tags/til/</link>
+      <pubDate>Wed, 04 Nov 2020 11:45:59 -0300</pubDate>
+      
+      <guid>https://rustnnes.github.io/tags/til/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>site</title>
+      <link>https://rustnnes.github.io/tags/site/</link>
+      <pubDate>Tue, 03 Nov 2020 19:49:09 -0300</pubDate>
+      
+      <guid>https://rustnnes.github.io/tags/site/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
