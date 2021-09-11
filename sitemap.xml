@@ -1,144 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://diegobandeira.com.br/202011/first/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/tags/curriculo/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/cv/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/tags/cv/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/tags/resume/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/tags/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/tags/agil/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/tags/heuristicas/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/tags/til/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/til/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/202011/today-i-learned-heur%C3%ADsticas/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/about/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/202011/today-i-learned-hugo/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/categories/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/categories/divulgacao/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/posts/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/tags/site/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/categories/social/</loc>
     <lastmod>2020-12-27T04:51:18-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diegobandeira.com.br/series/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  
 </urlset>
