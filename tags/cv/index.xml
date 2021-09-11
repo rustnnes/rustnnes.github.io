@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cv on Diego Bandeira</title>
-    <link>https://rustnnes.github.io/tags/cv/</link>
+    <link>https://diegobandeira.com.br/tags/cv/</link>
     <description>Recent content in cv on Diego Bandeira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://diegobandeira.com.br&#34;&gt;Diego Bandeira&lt;/a&gt; 2020</copyright>
-    <lastBuildDate>Tue, 10 Nov 2020 16:07:30 -0300</lastBuildDate><atom:link href="https://rustnnes.github.io/tags/cv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Nov 2020 16:07:30 -0300</lastBuildDate><atom:link href="https://diegobandeira.com.br/tags/cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Currículo</title>
-      <link>https://rustnnes.github.io/cv/</link>
+      <link>https://diegobandeira.com.br/cv/</link>
       <pubDate>Tue, 10 Nov 2020 16:07:30 -0300</pubDate>
       
-      <guid>https://rustnnes.github.io/cv/</guid>
+      <guid>https://diegobandeira.com.br/cv/</guid>
       <description>Meu currículo, onde eu demonstro o conhecimento que adquiri durante minha carreira.</description>
     </item>
     
